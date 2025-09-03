@@ -1,0 +1,9 @@
+INFO: System boot completed successfully
+WARNING: Disk space running low on /dev/sda1
+ERROR: Failed to load network driver
+INFO: User login successful
+ERROR: Database connection timeout
+INFO: Backup completed successfully
+WARNING: High memory usage detected
+ERROR: Application crashed with exit code 1
+INFO: Service restarted
